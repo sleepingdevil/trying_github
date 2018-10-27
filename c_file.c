@@ -4,5 +4,5 @@ using namespace std;
 #define ll long long
 int main()
 {
-  cout<<5+2;
+
 }
